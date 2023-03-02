@@ -2,3 +2,4 @@
 echo "School"
 echo "The school is open!"
 git push
+git push update_script main
